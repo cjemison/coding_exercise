@@ -5,11 +5,13 @@ write a function that returns the number of unique ways you can climb the stairc
 
 For example, if N is 4, then there are 5 unique ways:
 
+```txt
 1, 1, 1, 1
 2, 1, 1
 1, 2, 1
 1, 1, 2
 2, 2
+```
 
 Complete a method to link StepDO Domain objects together (DefaultNodeServiceImpl.createSteps). 
 
